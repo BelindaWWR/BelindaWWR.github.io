@@ -86,7 +86,7 @@ _International Journal of Web Services Research_. 11(4), pp. 47-61 (2014) (**SCI
 
 ## Technical Certifications
 
-* [Deep Learning - Andrew Ng (2017)]
+* Deep Learning - Andrew Ng (2017)
 
   [Neural Networks and Deep Learning - Andrew Ng (2017)](https://www.coursera.org/account/accomplishments/certificate/RJWFH6XE9ZLT)
 
@@ -116,7 +116,7 @@ _International Journal of Web Services Research_. 11(4), pp. 47-61 (2014) (**SCI
 
 `2017 - 2019` Research Assistantship
 
-`2014 - 2017` Postgraduate Scholarship: One-time Special Fund for PhD Student Support
+`2014 - 2017` Postgraduate Scholarship (PhD)
 
 `2011 - 2014` National Postgraduate Scholarship of China (Master)
 
