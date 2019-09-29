@@ -38,8 +38,8 @@ I am a Ph.D. candidate. My research interest includes: machine learning, informa
 
 **Weiru Wang**, Chi-Man Vong, Yilong Yang and Pak-Kin Wong, "Encrypted image classification based on multi-layer extreme learning machine," *Multidimensional Systems and Signal Processing*, vol. 28(3), pp. 851–865, 2017. (**JCR - Q2**)
 
-Yilong Yang, **Weiru Wang***, Yongxin Zhao "ServeNet: A Deep Neural Network for Web Service Classification,"
-*IEEE Transactions on Service Computing*. (Under Review).
+Yilong Yang, __Weiru Wang*__, Yongxin Zhao "ServeNet: A Deep Neural Network for Web Service Classification,"
+_IEEE Transactions on Service Computing_. (Under Review).
 
 Yilong Yang, Wei Ke, **Weiru Wang**, Yongxin Zhao, "Deep Learning for Web Services Classification," presented at the 11th International Conferences on Web Services (ICWS'19), Milan, Italy, July 2019. (**CCF B**).
 
@@ -48,8 +48,8 @@ Chuangquan Chen, Chi-Man Vong, Chi-Man Wong, **Weiru Wang** and Pak-Kin Wong, "E
 
 Changgen Peng, **Weiru Wang**, Youliang Tian and Zhilong Yuan, "An attribute-based signcryption scheme and its application in information hiding," *Chinese Journal of Electronics*, vol. 25(4), pp. 632-640, 2016. ((**SCI Indexed**)
 
-Yilong Yang, Jing Yang, Xiaoshan Li, **Weiru Wang***. "An Integrated Framework for Semantic Service Composition using Answer Set Programming".
-*International Journal of Web Services Research*. 11(4), pp. 47-61 (2014) (**SCI Indexed**).
+Yilong Yang, Jing Yang, Xiaoshan Li, __Weiru Wang*__. "An Integrated Framework for Semantic Service Composition using Answer Set Programming".
+_International Journal of Web Services Research_. 11(4), pp. 47-61 (2014) (**SCI Indexed**).
 
 **Weiru Wang**, Changgen Peng, Zhilong Yuan. "Ciphertext-policy attribute-based signcryption," *Journal of Guizhou University (Natural Sciences)*, vol.30 (04), pp.74-78, 2013.
 
