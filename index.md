@@ -38,9 +38,10 @@ I am a Ph.D. candidate. My research interest includes: machine learning, informa
 
 **Weiru Wang**, Chi-Man Vong, Yilong Yang and Pak-Kin Wong, "Encrypted image classification based on multi-layer extreme learning machine," *Multidimensional Systems and Signal Processing*, vol. 28(3), pp. 851–865, 2017. (**JCR - Q2**)
 
-Yilong Yang, **Weiru Wang***, Yongxin Zhao "ServeNet: A Deep Neural Network for Web Service Classification". *IEEE Transactions on Service Computing*. (Under Review).
+Yilong Yang, **Weiru Wang***, Yongxin Zhao "ServeNet: A Deep Neural Network for Web Service Classification," *IEEE
+Transactions on Service Computing*. (Under Review).
 
-Yilong Yang, Wei Ke, **Weiru Wang**, Yongxin Zhao ["Deep Learning for Web Services Classification"](https://doi.org/10.1109/ICWS.2019.00079). presented at the 11th International Conferences on Web Services (ICWS'19), Milan, Italy, July 2019. (**CCF B**).
+Yilong Yang, Wei Ke, **Weiru Wang**, Yongxin Zhao, "Deep Learning for Web Services Classification," presented at the 11th International Conferences on Web Services (ICWS'19), Milan, Italy, July 2019. (**CCF B**).
 
 
 Chuangquan Chen, Chi-Man Vong, Chi-Man Wong, **Weiru Wang** and Pak-Kin Wong, "Efficient extreme learning machine via very sparse random projection," *Soft Computing*, vol. 22(11), pp. 3563-3574, 2018. (**JCR - Q2**)
